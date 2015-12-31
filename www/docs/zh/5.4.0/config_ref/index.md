@@ -17,10 +17,10 @@ license: >
     specific language governing permissions and limitations
     under the License.
 
-title: Config.xml 檔
+title: Config.xml 文档
 ---
 
-# Config.xml 檔
+# Config.xml 文档
 
 與全域設定檔，可以控制應用程式的行為的許多方面 `config.xml` 。 這與平臺無關的 XML 檔被安排基於 W3C 的[打包 Web 應用程式 （視窗小部件）][1]規範，並擴展指定核心科爾多瓦 API 功能、 外掛程式和平臺特定的設置。
 
